@@ -1,0 +1,14 @@
+{
+  "name": "onlinesales.ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maths.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "util": "^0.12.5"
+  }
+}
